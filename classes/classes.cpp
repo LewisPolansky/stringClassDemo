@@ -25,6 +25,9 @@ int main()
     s2.append('f');
     s2.append('g');
     s2.append('h');
+    s2.append('i');
+    s2.append('j');
+    s2.append('k');
     cout << "Append stuff: ";
     s2.print();
 
@@ -38,7 +41,7 @@ int main()
     s3.print();
 
 
-    cout << "Erase 3" << endl;
+    cout << "Erase 2" << endl;
     s2.erase(3, 2);
     s2.print();
 }
