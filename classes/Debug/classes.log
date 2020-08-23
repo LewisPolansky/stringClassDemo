@@ -1,0 +1,8 @@
+﻿  myString.cpp
+C:\Users\Cube Master Lewis\source\repos\classes\classes\myString.cpp(15,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Cube Master Lewis\source\repos\classes\classes\myString.cpp(62,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Cube Master Lewis\source\repos\classes\classes\myString.cpp(69,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Cube Master Lewis\source\repos\classes\classes\myString.cpp(91,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Cube Master Lewis\source\repos\classes\classes\myString.cpp(98,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Cube Master Lewis\source\repos\classes\classes\myString.cpp(104,20): warning C4018: '<': signed/unsigned mismatch
+  classes.vcxproj -> C:\Users\Cube Master Lewis\source\repos\classes\Debug\classes.exe
