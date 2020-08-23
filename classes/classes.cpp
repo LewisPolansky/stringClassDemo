@@ -41,7 +41,7 @@ int main()
     s3.print();
 
 
-    cout << "Erase 2" << endl;
-    s2.erase(3, 2);
+    cout << "Erase 5" << endl;
+    s2.erase(3, 5);
     s2.print();
 }
